@@ -49,6 +49,7 @@ A curated list of high-quality tools, platforms, datasets, and organizations pro
 - [UK Government API Catalogue](https://api.gov.uk/) – Central directory of APIs for UK public services.
 - [EU Open Data Portal](https://data.europa.eu/en) – API and datasets from EU institutions.
 - [Canada Open Government Portal](https://open.canada.ca/en/open-data) – Government of Canada's open data and APIs.
+- [ForeclosureListings](https://foreclosurelistings.fyi) – Directory and free API over public foreclosure records: trustee and sheriff sale venues, notice postings, HUD-approved counselors and legal aid by US city and state.
 
 ## Research & Advocacy
 
